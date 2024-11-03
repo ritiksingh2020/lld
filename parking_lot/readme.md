@@ -92,3 +92,7 @@ should unpark the parked vehicle and
 
 - getFreeSpotsCount(0, 2)
 after unparking, getFreeSpotsCount will now return 7.
+
+## To run testcases simply run below command 
+
+``` pytest entrypoint.py```
